@@ -1,0 +1,9 @@
+.thumbnail {
+    width:100px;
+    height: 100px;
+    background-size: cover;
+}
+.gallery a {
+    float: left;
+    margin: 5px;
+}   
