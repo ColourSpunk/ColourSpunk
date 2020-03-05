@@ -20,4 +20,6 @@
   display: table-cell;
   vertical-align: middle;
  }
- 
+.blue {
+    background-color:blue
+}
