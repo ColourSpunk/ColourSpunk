@@ -13,12 +13,14 @@
 
 #parent {
     display: table;
-    height:100%
+    height:100%;
+    width:100%;
 }
 
 #child {
   display: table-cell;
   vertical-align: middle;
+  text-align: center;
  }
 .blue {
     background-color:blue
@@ -28,5 +30,5 @@
     width:100%;
 }
 .white {
-    color: white;
+    background-color: white
 }
