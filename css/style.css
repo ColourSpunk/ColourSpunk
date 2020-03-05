@@ -7,3 +7,17 @@
     float: left;
     margin: 5px;
 }   
+.height100 {
+    height:100%
+}
+
+#parent {
+    display: table;
+    height:100%
+}
+
+#child {
+  display: table-cell;
+  vertical-align: middle;
+ }
+ 
