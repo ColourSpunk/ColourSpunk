@@ -22,8 +22,8 @@
   vertical-align: middle;
   text-align: center;
  }
-.blue {
-    background-color:blue
+.green {
+    background-color:green
 }
 .working {
     height: 100%;
@@ -31,4 +31,19 @@
 }
 .white {
     background-color: white
+}
+.trans {
+    opacity: 0.5;
+}
+.opac {
+    opacity: 1;
+}
+.nopad {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+.transwhite {
+    background: rgba(255,255,255,0.3)
 }
