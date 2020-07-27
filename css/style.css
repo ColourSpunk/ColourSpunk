@@ -55,3 +55,8 @@
     background: linear-gradient(green, white);
     background-repeat: no-repeat;
 }
+.backgroundimg {
+    background-image: url("images\gallery\large\3bedroomlodge3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
